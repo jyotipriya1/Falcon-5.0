@@ -34,3 +34,12 @@ Generate HTML Snippet :
 - <a href="https://www.google.com">Google</a>
 - <a href="mailto:example@example.com">Email</a>
 - <a href="tel:1234567890">Phone Number</a>
+
+## Images :
+. <img src="" alt="">  image description
+. src - source path
+. alt - alternative text
+
+## Break the line :
+. <br> - tag
+. To break the line, we use <br> tag
